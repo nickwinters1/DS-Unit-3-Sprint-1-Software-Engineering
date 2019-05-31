@@ -263,10 +263,11 @@ career here, you'll have to answer the following:
 
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
-  when others do the same for your code?
+  when others do the same for your code? To me code reviews are a way for students to interact with each other, learn from each other, and grow together. There are countless ways of doing code, and it is always good to learn more, personaly I have learned a lot of making things from students doing the same project as me, just writing there code differently than mine! The most important thing is making sure there code works, and if it doesnt, I believe it is equally important to make sure there code does run, help them figure out how to make it run, and understand why! And I greatly appreciate it when others do that for me!
+
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
-  improve this situation?
+  improve this situation? Containers are able to pack every single thing, from os, to packages, and so much more. Containers make it to where we can install the unit on every single computer, they will all have the same thing, and its made to where you can delete it without it affectin the computer! 
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
